@@ -226,7 +226,7 @@ function renderProfilePage() {
           <div>
             <h2>Медиа</h2>
             <div id="mediaList" class="media-list">
-              <p class="empty">Нажми «Загрузить материалы».</p>
+              <p style="color:orange;" class="empty">Нажми «Загрузить материалы».</p>
             </div>
           </div>
 
